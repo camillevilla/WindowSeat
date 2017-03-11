@@ -22,6 +22,10 @@
   font-size: 4em;
 }
 
+a.btn-lg:visited {
+  color: white;
+}
+
 .btn-lg {
   border-radius: 3px;
   text-transform: uppercase;
@@ -42,4 +46,8 @@
 
 .btn-login {
   background-color: #1122BD; 
+}
+
+.glyphicon-heart:hover {
+  color: red;
 }
